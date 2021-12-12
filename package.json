@@ -1,0 +1,25 @@
+{
+  "name": "sboilerplate",
+  "version": "1.0.0",
+  "description": "A library that packages the essentials to make a Scratch 3 emulator.",
+  "main": "electron/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeleKiwi/sboilerplate.git"
+  },
+  "author": "TeleKiwi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TeleKiwi/sboilerplate/issues"
+  },
+  "homepage": "https://github.com/TeleKiwi/sboilerplate#readme",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
