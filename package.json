@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/TeleKiwi/sboilerplate#readme",
   "devDependencies": {
-    "electron": "^16.0.4"
+    "electron": "^16.0.5"
   }
 }
